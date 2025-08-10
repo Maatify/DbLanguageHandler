@@ -58,7 +58,7 @@
     "maatify/post-validator-v2": "^5",
     "maatify/failed-login-handler": "^5",
     "maatify/google-auth": "^5",
-    "maatify/open-ssl": "5",
+    "maatify/open-ssl": "5.0.1",
     "maatify/mailer": "^5",
     "maatify/google-recaptcha": "^5",
     "maatify/jwt": "^5",
